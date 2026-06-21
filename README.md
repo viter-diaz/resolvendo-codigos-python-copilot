@@ -39,7 +39,14 @@ Calculadora simples com operações básicas.
 
 ### Desafio 03
 
-Outros algoritmos em Python para praticar lógica de programação.
+Sistema de cálculo da média da turma utilizando:
+
+- Variáveis
+- Entrada de dados
+- Laço de repetição (for)
+- Operadores matemáticos
+- Estruturas condicionais (if/elif/else)
+- Formatação de saída
 
 ## Aprendizados
 
